@@ -354,4 +354,4 @@ You built a Docker container image for that service, and ran that container on y
 
 #### Next
 
-[Tutorial 2 - docker-compose](../Tutorial2/docker-compose.md)
+[Tutorial 2 - docker-compose](../Tutorial2/readme.md)

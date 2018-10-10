@@ -264,4 +264,4 @@ We've taken a short detour to prep ourselves for the next tutorial. This tutoria
 
 #### Next
 
-[Tutorial 3 - SQL Server container](../Tutorial3/SQL_Server_container.md)
+[Tutorial 3 - SQL Server container](../Tutorial3/readme.md)
