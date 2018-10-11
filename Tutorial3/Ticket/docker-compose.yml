@@ -10,6 +10,8 @@ services:
   sql.data:
     image: ticketdata-image
     build: ./TicketData/
+    ports:
+      - "51433:1433"
     environment:
       SA_PASSWORD: "<!Passw0rd>"
       ACCEPT_EULA: "Y"
